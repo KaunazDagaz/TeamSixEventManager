@@ -1,0 +1,2 @@
+# TeamSixEventManager
+Team Project
