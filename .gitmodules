@@ -4,3 +4,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = https://github.com/KaunazDagaz/TeamSixEventManager.Backend.git
+[submodule "Workflows"]
+	path = Workflows
+	url = https://github.com/KaunazDagaz/TeamSixEventManager.Workflows.git
